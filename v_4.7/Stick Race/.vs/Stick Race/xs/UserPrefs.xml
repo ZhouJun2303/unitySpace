@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B51D7AEE-4BF6-16C2-9ED8-2873CEEEAF59}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/levelInfo/level1.txt">
+    <Files>
+      <File FileName="Assets/script/DrawBesizerLine.cs" Line="282" Column="26" />
+      <File FileName="Assets/script/ContrlPoint.cs" Line="19" Column="6" />
+      <File FileName="Assets/levelInfo/level1.txt" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

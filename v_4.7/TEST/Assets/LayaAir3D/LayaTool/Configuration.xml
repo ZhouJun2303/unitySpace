@@ -2,7 +2,7 @@
 <LayaExportSetting>
   <config>1</config>
   <config1>
-    <FirstlevelMenu>1</FirstlevelMenu>
+    <FirstlevelMenu>0</FirstlevelMenu>
     <MeshSetting>False</MeshSetting>
     <IgnoreVerticesUV>False</IgnoreVerticesUV>
     <IgnoreVerticesNormal>False</IgnoreVerticesNormal>
@@ -28,7 +28,7 @@
     <Ios>False</Ios>
     <Android>False</Android>
     <Conventional>True</Conventional>
-    <SavePath>D:\github\workSpace_gank\project1\bin\res</SavePath>
+    <SavePath>D:\github\workSpace_gank\project1Test\bin</SavePath>
     <ScrollPositionY>0</ScrollPositionY>
   </config1>
   <config2>
@@ -156,7 +156,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1589965921</time>
+  <time>1590054089</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>

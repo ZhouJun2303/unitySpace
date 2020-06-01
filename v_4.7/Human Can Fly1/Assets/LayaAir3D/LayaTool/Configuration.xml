@@ -19,8 +19,8 @@
     <IgnoreNullGameObject>True</IgnoreNullGameObject>
     <IgnoreNotActiveGameObject>False</IgnoreNotActiveGameObject>
     <OptimizeGameObject>False</OptimizeGameObject>
-    <BatchMade>False</BatchMade>
-    <OtherSetting>True</OtherSetting>
+    <BatchMade>True</BatchMade>
+    <OtherSetting>False</OtherSetting>
     <CoverOriginalFile>True</CoverOriginalFile>
     <CustomizeDirectory>True</CustomizeDirectory>
     <CustomizeDirectoryName>package1</CustomizeDirectoryName>
@@ -155,7 +155,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1590723796</time>
+  <time>1590976353</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>

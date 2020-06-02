@@ -13,18 +13,17 @@
     <TerrainSetting>False</TerrainSetting>
     <TextureSetting>False</TextureSetting>
     <JPGQuality>75</JPGQuality>
-    <ConvertTerrain>True</ConvertTerrain>
+    <ConvertTerrain>False</ConvertTerrain>
     <TerrainToMeshResolution>8</TerrainToMeshResolution>
     <GameObjectSetting>True</GameObjectSetting>
     <IgnoreNullGameObject>True</IgnoreNullGameObject>
     <IgnoreNotActiveGameObject>True</IgnoreNotActiveGameObject>
     <OptimizeGameObject>False</OptimizeGameObject>
-    <BatchMade>True</BatchMade>
-    <OtherSetting>False</OtherSetting>
+    <BatchMade>False</BatchMade>
+    <OtherSetting>True</OtherSetting>
     <CoverOriginalFile>True</CoverOriginalFile>
-    <CustomizeDirectory>False</CustomizeDirectory>
-    <CustomizeDirectoryName>
-    </CustomizeDirectoryName>
+    <CustomizeDirectory>True</CustomizeDirectory>
+    <CustomizeDirectoryName>package1</CustomizeDirectoryName>
     <Ios>False</Ios>
     <Android>False</Android>
     <Conventional>True</Conventional>
@@ -156,7 +155,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1590546227</time>
+  <time>1591082921</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>

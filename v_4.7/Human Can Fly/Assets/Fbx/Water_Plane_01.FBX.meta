@@ -5,10 +5,10 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: _125initialShadingGroup
+    2100000: 'Material #338'
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Water_Plane_01
+    4300000: Water_Plane_002
   externalObjects: {}
   materials:
     importMaterials: 1

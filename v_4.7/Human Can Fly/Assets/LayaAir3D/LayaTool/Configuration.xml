@@ -2,7 +2,7 @@
 <LayaExportSetting>
   <config>1</config>
   <config1>
-    <FirstlevelMenu>0</FirstlevelMenu>
+    <FirstlevelMenu>1</FirstlevelMenu>
     <MeshSetting>False</MeshSetting>
     <IgnoreVerticesUV>False</IgnoreVerticesUV>
     <IgnoreVerticesNormal>False</IgnoreVerticesNormal>
@@ -19,7 +19,7 @@
     <IgnoreNullGameObject>True</IgnoreNullGameObject>
     <IgnoreNotActiveGameObject>True</IgnoreNotActiveGameObject>
     <OptimizeGameObject>False</OptimizeGameObject>
-    <BatchMade>False</BatchMade>
+    <BatchMade>True</BatchMade>
     <OtherSetting>True</OtherSetting>
     <CoverOriginalFile>True</CoverOriginalFile>
     <CustomizeDirectory>True</CustomizeDirectory>
@@ -155,7 +155,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1591082921</time>
+  <time>1591171441</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>

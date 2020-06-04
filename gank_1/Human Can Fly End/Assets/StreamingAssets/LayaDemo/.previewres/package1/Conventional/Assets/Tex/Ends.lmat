@@ -23,11 +23,11 @@
 		"textures":[
 			{
 				"name":"albedoTexture",
-				"path":"Ends.png",
+				"path":"Ends.jpg",
 				"constructParams":[
 					512,
 					512,
-					1,
+					0,
 					true
 				],
 				"propertyParams":{

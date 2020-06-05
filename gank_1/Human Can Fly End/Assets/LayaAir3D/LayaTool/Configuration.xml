@@ -15,11 +15,11 @@
     <JPGQuality>75</JPGQuality>
     <ConvertTerrain>False</ConvertTerrain>
     <TerrainToMeshResolution>8</TerrainToMeshResolution>
-    <GameObjectSetting>True</GameObjectSetting>
+    <GameObjectSetting>False</GameObjectSetting>
     <IgnoreNullGameObject>True</IgnoreNullGameObject>
-    <IgnoreNotActiveGameObject>True</IgnoreNotActiveGameObject>
+    <IgnoreNotActiveGameObject>False</IgnoreNotActiveGameObject>
     <OptimizeGameObject>False</OptimizeGameObject>
-    <BatchMade>True</BatchMade>
+    <BatchMade>False</BatchMade>
     <OtherSetting>True</OtherSetting>
     <CoverOriginalFile>True</CoverOriginalFile>
     <CustomizeDirectory>True</CustomizeDirectory>
@@ -155,7 +155,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1591261137</time>
+  <time>1591351430</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>

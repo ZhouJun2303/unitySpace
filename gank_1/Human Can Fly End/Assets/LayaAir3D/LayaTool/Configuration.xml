@@ -2,7 +2,7 @@
 <LayaExportSetting>
   <config>1</config>
   <config1>
-    <FirstlevelMenu>1</FirstlevelMenu>
+    <FirstlevelMenu>0</FirstlevelMenu>
     <MeshSetting>False</MeshSetting>
     <IgnoreVerticesUV>False</IgnoreVerticesUV>
     <IgnoreVerticesNormal>False</IgnoreVerticesNormal>
@@ -155,7 +155,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1591580416</time>
+  <time>1591697632</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>

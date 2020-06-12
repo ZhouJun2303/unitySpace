@@ -19712,7 +19712,7 @@
 				"type":"MeshSprite3D",
 				"instanceID":564,
 				"props":{
-					"name":"Car1",
+					"name":"Car2",
 					"active":true,
 					"isStatic":false,
 					"layer":0,
@@ -19823,7 +19823,46 @@
 								}
 							]
 						},
-						"components":[],
+						"components":[
+							{
+								"type":"Rigidbody3D",
+								"mass":1,
+								"isKinematic":false,
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"linearDamping":0,
+								"angularDamping":0,
+								"overrideGravity":false,
+								"gravity":[
+									0,
+									0,
+									0
+								],
+								"shapes":[
+									{
+										"type":"SphereColliderShape",
+										"center":[
+											-5.960464E-08,
+											-8.940697E-07,
+											-2.980232E-08
+										],
+										"radius":1.167289
+									}
+								],
+								"isTrigger":false,
+								"linearFactor":[
+									1,
+									1,
+									1
+								],
+								"angularFactor":[
+									1,
+									1,
+									1
+								]
+							}
+						],
 						"child":[]
 					},
 					{
@@ -19861,7 +19900,46 @@
 								}
 							]
 						},
-						"components":[],
+						"components":[
+							{
+								"type":"Rigidbody3D",
+								"mass":1,
+								"isKinematic":false,
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"linearDamping":0,
+								"angularDamping":0,
+								"overrideGravity":false,
+								"gravity":[
+									0,
+									0,
+									0
+								],
+								"shapes":[
+									{
+										"type":"SphereColliderShape",
+										"center":[
+											-5.960464E-08,
+											-8.940697E-07,
+											-2.980232E-08
+										],
+										"radius":1.167289
+									}
+								],
+								"isTrigger":false,
+								"linearFactor":[
+									1,
+									1,
+									1
+								],
+								"angularFactor":[
+									1,
+									1,
+									1
+								]
+							}
+						],
 						"child":[]
 					},
 					{
@@ -19899,7 +19977,46 @@
 								}
 							]
 						},
-						"components":[],
+						"components":[
+							{
+								"type":"Rigidbody3D",
+								"mass":1,
+								"isKinematic":false,
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"linearDamping":0,
+								"angularDamping":0,
+								"overrideGravity":false,
+								"gravity":[
+									0,
+									0,
+									0
+								],
+								"shapes":[
+									{
+										"type":"SphereColliderShape",
+										"center":[
+											-5.960464E-08,
+											-8.940697E-07,
+											-2.980232E-08
+										],
+										"radius":1.167289
+									}
+								],
+								"isTrigger":false,
+								"linearFactor":[
+									1,
+									1,
+									1
+								],
+								"angularFactor":[
+									1,
+									1,
+									1
+								]
+							}
+						],
 						"child":[]
 					},
 					{
@@ -19937,34 +20054,6 @@
 								}
 							]
 						},
-						"components":[],
-						"child":[]
-					},
-					{
-						"type":"Sprite3D",
-						"instanceID":569,
-						"props":{
-							"name":"GameObject",
-							"active":true,
-							"isStatic":false,
-							"layer":0,
-							"position":[
-								-1.76,
-								-3.59,
-								0
-							],
-							"rotation":[
-								0,
-								0,
-								0,
-								-1
-							],
-							"scale":[
-								1,
-								1,
-								1
-							]
-						},
 						"components":[
 							{
 								"type":"Rigidbody3D",
@@ -19985,76 +20074,9 @@
 									{
 										"type":"SphereColliderShape",
 										"center":[
-											0,
-											1.2,
-											0
-										],
-										"radius":1.167289
-									}
-								],
-								"isTrigger":false,
-								"linearFactor":[
-									1,
-									1,
-									1
-								],
-								"angularFactor":[
-									1,
-									1,
-									1
-								]
-							}
-						],
-						"child":[]
-					},
-					{
-						"type":"Sprite3D",
-						"instanceID":570,
-						"props":{
-							"name":"GameObject (1)",
-							"active":true,
-							"isStatic":false,
-							"layer":0,
-							"position":[
-								1.71,
-								-3.59,
-								0
-							],
-							"rotation":[
-								0,
-								0,
-								0,
-								-1
-							],
-							"scale":[
-								1,
-								1,
-								1
-							]
-						},
-						"components":[
-							{
-								"type":"Rigidbody3D",
-								"mass":1,
-								"isKinematic":false,
-								"restitution":0,
-								"friction":0.5,
-								"rollingFriction":0,
-								"linearDamping":0,
-								"angularDamping":0,
-								"overrideGravity":false,
-								"gravity":[
-									0,
-									0,
-									0
-								],
-								"shapes":[
-									{
-										"type":"SphereColliderShape",
-										"center":[
-											0,
-											1.2,
-											0
+											-5.960464E-08,
+											-8.940697E-07,
+											-2.980232E-08
 										],
 										"radius":1.167289
 									}

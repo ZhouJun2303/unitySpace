@@ -2,12 +2,12 @@
 <LayaExportSetting>
   <config>1</config>
   <config1>
-    <FirstlevelMenu>0</FirstlevelMenu>
+    <FirstlevelMenu>1</FirstlevelMenu>
     <MeshSetting>False</MeshSetting>
     <IgnoreVerticesUV>False</IgnoreVerticesUV>
     <IgnoreVerticesNormal>False</IgnoreVerticesNormal>
-    <IgnoreVerticesTangent>False</IgnoreVerticesTangent>
-    <IgnoreVerticesColor>False</IgnoreVerticesColor>
+    <IgnoreVerticesTangent>True</IgnoreVerticesTangent>
+    <IgnoreVerticesColor>True</IgnoreVerticesColor>
     <CompressMesh>False</CompressMesh>
     <AnimatorCompress>False</AnimatorCompress>
     <TerrainSetting>False</TerrainSetting>
@@ -155,7 +155,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1591697632</time>
+  <time>1592300496</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>

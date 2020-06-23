@@ -44,7 +44,7 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  m_GIWorkflowMode: 0
+  m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -88,7 +88,8 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: bbc99d322893e994c8f66fbb356cf3f7,
+    type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
@@ -319,7 +320,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4b77e3bf2361a994395738208f604c7a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 1.49
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4b77e3bf2361a994395738208f604c7a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -363,7 +364,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4b77e3bf2361a994395738208f604c7a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.013688712
+      value: 0.010264755
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 4b77e3bf2361a994395738208f604c7a, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3549,7 +3550,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4b77e3bf2361a994395738208f604c7a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 1.49
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4b77e3bf2361a994395738208f604c7a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3593,7 +3594,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4b77e3bf2361a994395738208f604c7a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.013688712
+      value: 0.010264755
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 4b77e3bf2361a994395738208f604c7a, type: 3}
       propertyPath: m_Materials.Array.data[0]
